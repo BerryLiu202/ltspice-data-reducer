@@ -1,0 +1,7 @@
+# simulation exports and reduced outputs
+*.txt
+*.raw
+*.log
+# python
+__pycache__/
+*.pyc
