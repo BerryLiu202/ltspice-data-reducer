@@ -8,9 +8,9 @@ Long electro-thermal or multi-pulse simulations need fine time steps, so exporte
 
 A 50 s repetitive-pulse electro-thermal simulation of a 150 V GaN HEMT: four LTspice exports of 250 to 370 MB each, too large to plot. After reduction (6 to 9 MB each) they plot directly in Origin, both the full 50 s and zoomed windows.
 
-![Junction temperature under repetitive 15 us and 300 us pulses at 0.3 rated current, plotted from reduced files](docs/tj_repetitive_0p3_rated.jpg)
+![Junction temperature under repetitive 15 us and 300 us pulses at 0.3 rated current, plotted from reduced files](tj_repetitive_0p3_rated.jpg)
 
-![Junction temperature under repetitive 15 us and 300 us pulses at 0.9 rated current, plotted from reduced files](docs/tj_repetitive_0p9_rated.jpg)
+![Junction temperature under repetitive 15 us and 300 us pulses at 0.9 rated current, plotted from reduced files](tj_repetitive_0p9_rated.jpg)
 
 ## Modes
 
